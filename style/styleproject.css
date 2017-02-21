@@ -1,0 +1,36 @@
+
+body{
+    background-color: #B7F46E; 
+   } 
+h5{
+	color: white;
+	padding-top: 0.5em;
+}
+li{
+	padding-left: 7em;
+}
+img{
+	margin-right: -0.1em;
+	max-width: 100%;
+	height: auto;
+}
+p{
+	 margin-left: 11em; 
+	 text-decoration: underline;
+	 font-weight: bolder;
+}
+li{
+	display: inline;
+}
+ul{
+	margin-top: 3em;
+}
+.img img{
+	padding: 1em;
+	margin-right: -4em;
+}
+@media screen and (max-width: 992px ) and (min-width: 768px) {
+	li{
+		padding-left: 3em;
+	}
+}

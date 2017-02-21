@@ -1,0 +1,19 @@
+body{
+    background-color: #B7F46E; 
+   } 
+h5{
+	color: white;
+	padding-top: 0.5em;
+}
+li{
+	padding-left: 7em;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+@media screen and (max-width: 992px ) and (min-width: 768px) {
+	li{
+		padding-left: 3em;
+	}
+}
